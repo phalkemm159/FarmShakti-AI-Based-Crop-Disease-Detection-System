@@ -45,6 +45,9 @@ Try the live app here:
 
 ## 💻 Local Installation Guide
 
+Can also download Pretrain Model Set
+Link : https://drive.google.com/uc?id=1mK0HiZl_yye9wXi5fYUCzF7CpCVksgup
+
 ### Prerequisites
 - Python 3.8+
 - [Google API Key](https://makersuite.google.com/app/apikey) 🔑
